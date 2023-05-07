@@ -1,0 +1,60 @@
+.profile{
+    padding: 30px 0;
+    background-image: url(CorkBoard02-768x480.jpg) ;
+    height: auto ;
+}
+
+.career{
+    padding: 30px 0;
+    background-image: url(CorkBoard02-768x480.jpg) ;
+    height: auto ;
+}
+
+.gw{
+    padding: 30px 0;
+    background-image: url(CorkBoard02-768x480.jpg) ;
+    height: auto ;
+}
+
+.thinking{
+    padding: 30px 0;
+    background-image: url(CorkBoard02-768x480.jpg) ;
+    height: auto ;
+}
+.title{
+    background-color:pink;
+    width: 300px;
+    padding: 0 20px;
+    margin-left:10px;
+    margin-bottom: 20px;
+}
+
+.row{
+    margin-left: 20px;
+}
+
+.list-group{
+    margin-bottom: 20px;
+}
+
+.my-photo{
+    width: 100% ;
+}
+
+.version{
+    font-size: 20px;
+    font-weight: bold;
+    background-color:rgb(245, 243, 140);
+}
+
+.now{
+    color: red;    
+}
+
+.thinks{
+    background-color: white;
+    margin-left: 10px;
+    padding: 20px 0;
+    border-radius: 4px;
+    border: solid 1px gainsboro;
+}
